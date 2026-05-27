@@ -30,4 +30,4 @@ Modelos de clustering
 ## Enlaces
  * Video de YouTube: 
  * Slides: 
- * Notebook: 
+ * Notebook: https://colab.research.google.com/drive/1mTwYpk20eJFyGR7cb5ycHtMcleoIRT9V?usp=sharing
