@@ -1,4 +1,7 @@
 # Prediccion-del-riesgo-de-salud-a-partir-de-habitos-de-vida
+
+![Banner del proyecto](Banner.png)
+
 ## Objetivo:
 Predecir del riesgo de salud a partir de habitos de vida mediante tecnicas de aprendizaje  automatico
 
