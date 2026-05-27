@@ -1,4 +1,4 @@
-# Prediccion-del-riesgo-de-salud-a-partir-de-habitos-de-vida
+# Prediccion del riesgo de salud a partir dehabitos de vida
 
 ![Banner del proyecto](Banner.png)
 
